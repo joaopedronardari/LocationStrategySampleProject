@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Location Strategy Sample Project</string>
+    <string name="schedule_task">Schedule Task</string>
+</resources>
